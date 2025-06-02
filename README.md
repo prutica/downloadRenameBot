@@ -1,4 +1,4 @@
-# downloadRenameBot
+Prutica Daniel Marian 
 
 2gb+ Telegram file/YouTube upload&amp;renamer bot based on [MadelineProto &raquo;](https://docs.madelineproto.xyz).  
 
